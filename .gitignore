@@ -1,0 +1,4 @@
+vite.config.ts.timestamp-*.mjs
+node_modules/
+dist/
+*.log
